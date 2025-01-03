@@ -1,4 +1,4 @@
-# 💫 Hi! i'm Amirhossein
+# Hi! I'm Amirhossein
 I am a young and talented web developer with 2 years of experience working at Pos Iran company. I have a strong command of HTML, CSS, JavaScript, and C#, which allows me to create dynamic and responsive web applications. During my time at Pos Iran, I have honed my skills in front-end development, working on a variety of projects that have helped me develop a deep understanding of web technologies and best practices. I am passionate about staying up-to-date with the latest industry trends and continuously improving my skills to deliver high-quality solutions that meet the needs of my clients.
 
 
