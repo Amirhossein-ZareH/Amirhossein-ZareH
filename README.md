@@ -1,5 +1,5 @@
-# 💫 About Me:
-💫 Hi! I'm Amirhossein<br>Professional Summary<br><br>A dedicated and motivated Software Engineering student currently in the 6th semester of undergraduate studies. Passionate about front-end development with hands-on experience in modern technologies such as HTML, CSS, JavaScript, React Native, Android XML, and Figma. Currently working at PosIran Company, contributing to real-world projects and continuously expanding technical skills. Also familiar with various programming languages including Python, Java, C#, C++, SQL, and JavaScript. A fast learner with a strong interest in UI/UX design and mobile application development.
+# 💫 Hi! I'm Amirhossein
+<br>Professional Summary<br><br>A dedicated and motivated Software Engineering student currently in the 6th semester of undergraduate studies. Passionate about front-end development with hands-on experience in modern technologies such as HTML, CSS, JavaScript, React Native, Android XML, and Figma. Currently working at PosIran Company, contributing to real-world projects and continuously expanding technical skills. Also familiar with various programming languages including Python, Java, C#, C++, SQL, and JavaScript. A fast learner with a strong interest in UI/UX design and mobile application development.
 
 
 ## 🌐 Socials:
