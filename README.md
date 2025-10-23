@@ -1,5 +1,5 @@
 # 💫 Hi! I'm Amirhossein
-I’m a 6th-semester Software Engineering student passionate about front-end development, mobile apps, and UI/UX design. Currently, I contribute to real-world projects at PosIran Company, where I enjoy turning ideas into clean, responsive, and engaging applications.
+I’m a 8th-semester Software Engineering student passionate about front-end development, mobile apps, and UI/UX design. Currently, I contribute to real-world projects at PosIran Company, where I enjoy turning ideas into clean, responsive, and engaging applications.
 
 I have hands-on experience with HTML5, CSS3, JavaScript, React Native, Flutter, Android XML, and Figma, and I am proficient in programming languages like Python, Java, C#, C++, Dart, Kotlin, and Go. I also work with frameworks and libraries such as .NET, Django, Flask, TailwindCSS, SASS, Bootstrap, and Windicss, as well as databases including MySQL, SQLite, Microsoft SQL Server, MongoDB, and Apache Cassandra. My experience extends to cloud and infrastructure tools like Oracle, Cloudflare, Docker, and Apache Kafka.
 
